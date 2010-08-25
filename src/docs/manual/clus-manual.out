@@ -1,0 +1,32 @@
+\BOOKMARK [0][-]{chapter.1}{Introduction}{}
+\BOOKMARK [0][-]{chapter.2}{Getting Started}{}
+\BOOKMARK [1][-]{section.2.1}{Installing and Running Clus}{chapter.2}
+\BOOKMARK [1][-]{section.2.2}{Input and Output Files for Clus}{chapter.2}
+\BOOKMARK [1][-]{section.2.3}{A Step-by-step Example}{chapter.2}
+\BOOKMARK [0][-]{chapter.3}{Input Format}{}
+\BOOKMARK [0][-]{chapter.4}{Settings File}{}
+\BOOKMARK [1][-]{section.4.1}{General}{chapter.4}
+\BOOKMARK [1][-]{section.4.2}{Data}{chapter.4}
+\BOOKMARK [1][-]{section.4.3}{Attributes}{chapter.4}
+\BOOKMARK [1][-]{section.4.4}{Model}{chapter.4}
+\BOOKMARK [1][-]{section.4.5}{Tree}{chapter.4}
+\BOOKMARK [1][-]{section.4.6}{Rules}{chapter.4}
+\BOOKMARK [1][-]{section.4.7}{Ensembles}{chapter.4}
+\BOOKMARK [1][-]{section.4.8}{Constraints}{chapter.4}
+\BOOKMARK [1][-]{section.4.9}{Output}{chapter.4}
+\BOOKMARK [1][-]{section.4.10}{Beam}{chapter.4}
+\BOOKMARK [1][-]{section.4.11}{Hierarchical}{chapter.4}
+\BOOKMARK [0][-]{chapter.5}{Command Line Parameters}{}
+\BOOKMARK [0][-]{chapter.6}{Output Files}{}
+\BOOKMARK [1][-]{section.6.1}{Used Settings}{chapter.6}
+\BOOKMARK [1][-]{section.6.2}{Evaluation Statistics}{chapter.6}
+\BOOKMARK [1][-]{section.6.3}{The Models}{chapter.6}
+\BOOKMARK [0][-]{chapter.7}{Developer Documentation}{}
+\BOOKMARK [1][-]{section.7.1}{Compiling Clus}{chapter.7}
+\BOOKMARK [1][-]{section.7.2}{Compiling Clus with Eclipse}{chapter.7}
+\BOOKMARK [1][-]{section.7.3}{Running Clus after Compiling the Source Code}{chapter.7}
+\BOOKMARK [1][-]{section.7.4}{Code Organization}{chapter.7}
+\BOOKMARK [0][-]{appendix.A}{Constructing Phylogenetic Trees Using Clus}{}
+\BOOKMARK [1][-]{section.A.1}{Input Format}{appendix.A}
+\BOOKMARK [1][-]{section.A.2}{Settings File}{appendix.A}
+\BOOKMARK [1][-]{section.A.3}{Output Files}{appendix.A}

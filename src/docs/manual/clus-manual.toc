@@ -1,0 +1,32 @@
+\contentsline {chapter}{\numberline {1}Introduction}{2}{chapter.1}
+\contentsline {chapter}{\numberline {2}Getting Started}{4}{chapter.2}
+\contentsline {section}{\numberline {2.1}Installing and Running \textsc {Clus}}{4}{section.2.1}
+\contentsline {section}{\numberline {2.2}Input and Output Files for \textsc {Clus}}{4}{section.2.2}
+\contentsline {section}{\numberline {2.3}A Step-by-step Example}{6}{section.2.3}
+\contentsline {chapter}{\numberline {3}Input Format}{8}{chapter.3}
+\contentsline {chapter}{\numberline {4}Settings File}{11}{chapter.4}
+\contentsline {section}{\numberline {4.1}General}{11}{section.4.1}
+\contentsline {section}{\numberline {4.2}Data}{11}{section.4.2}
+\contentsline {section}{\numberline {4.3}Attributes}{12}{section.4.3}
+\contentsline {section}{\numberline {4.4}Model}{12}{section.4.4}
+\contentsline {section}{\numberline {4.5}Tree}{12}{section.4.5}
+\contentsline {section}{\numberline {4.6}Rules}{13}{section.4.6}
+\contentsline {section}{\numberline {4.7}Ensembles}{15}{section.4.7}
+\contentsline {section}{\numberline {4.8}Constraints}{15}{section.4.8}
+\contentsline {section}{\numberline {4.9}Output}{16}{section.4.9}
+\contentsline {section}{\numberline {4.10}Beam}{16}{section.4.10}
+\contentsline {section}{\numberline {4.11}Hierarchical}{16}{section.4.11}
+\contentsline {chapter}{\numberline {5}Command Line Parameters}{19}{chapter.5}
+\contentsline {chapter}{\numberline {6}Output Files}{20}{chapter.6}
+\contentsline {section}{\numberline {6.1}Used Settings}{20}{section.6.1}
+\contentsline {section}{\numberline {6.2}Evaluation Statistics}{20}{section.6.2}
+\contentsline {section}{\numberline {6.3}The Models}{20}{section.6.3}
+\contentsline {chapter}{\numberline {7}Developer Documentation}{24}{chapter.7}
+\contentsline {section}{\numberline {7.1}Compiling Clus}{24}{section.7.1}
+\contentsline {section}{\numberline {7.2}Compiling Clus with Eclipse}{24}{section.7.2}
+\contentsline {section}{\numberline {7.3}Running Clus after Compiling the Source Code}{25}{section.7.3}
+\contentsline {section}{\numberline {7.4}Code Organization}{25}{section.7.4}
+\contentsline {chapter}{\numberline {A}Constructing Phylogenetic Trees Using Clus}{28}{appendix.A}
+\contentsline {section}{\numberline {A.1}Input Format}{28}{section.A.1}
+\contentsline {section}{\numberline {A.2}Settings File}{28}{section.A.2}
+\contentsline {section}{\numberline {A.3}Output Files}{29}{section.A.3}
